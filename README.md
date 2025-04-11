@@ -26,7 +26,8 @@ This app lets users add, check off, and delete tasks — and keeps them saved us
 
 ## 📸 Preview
 
-![Main View](https://github.com/user-attachments/assets/882e5edb-b124-46fd-9320-d6cba8c72a6a)
+![Main View](https://github.com/user-attachments/assets/4642cc6b-362e-47ca-b3a5-a11a3039d793)
+
 
 ## 🤝 Contributing
 
